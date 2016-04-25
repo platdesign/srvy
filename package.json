@@ -3,6 +3,8 @@
   "description": "DNS based ServiceDiscovery Clients",
   "author": "Christian Blaschke <mail@platdesign.de>",
   "version": "0.0.0",
-  "dependencies": {},
-  "repository":""
+  "dependencies": {
+    "request-promise": "^3.0.0"
+  },
+  "repository": ""
 }
