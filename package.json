@@ -4,7 +4,7 @@
   "author": "Christian Blaschke <mail@platdesign.de>",
   "version": "0.0.0",
   "dependencies": {
-    "boom": "^3.1.2",
+    "boom": "^4.2.0",
     "request-promise": "^4.1.1"
   },
   "repository": "https://platdesign@github.com/platdesign/srvy.git"
